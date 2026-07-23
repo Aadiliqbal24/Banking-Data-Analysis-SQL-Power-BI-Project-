@@ -1,0 +1,101 @@
+customer_id,customer_name,gender,dob,city,state,occupation,annual_income,join_date
+1001,Arjun Kumar,M,2002-04-25,Madurai,Tamil Nadu,Sales Executive,577816,2023-02-02
+1002,Priya Kumar,M,1988-07-17,Delhi,Delhi,Doctor,1219850,2022-09-27
+1003,Rahul Kumar,F,1987-11-17,Coimbatore,Tamil Nadu,Accountant,1114395,2024-04-05
+1004,Sneha Kumar,M,1998-09-12,Madurai,Tamil Nadu,Teacher,1239400,2022-09-26
+1005,Karthik Kumar,F,1995-03-08,Coimbatore,Tamil Nadu,Software Engineer,315524,2022-05-25
+1006,Meera Kumar,F,1998-06-17,Chennai,Tamil Nadu,Doctor,367207,2023-06-10
+1007,Vignesh Kumar,F,1989-07-04,Madurai,Tamil Nadu,Banker,1331938,2023-06-05
+1008,Divya Kumar,F,2002-12-28,Kochi,Kerala,Doctor,411438,2023-04-19
+1009,Ananya Kumar,F,1991-02-05,Delhi,Delhi,Banker,492526,2022-02-23
+1010,Rohit Kumar,F,1989-11-21,Madurai,Tamil Nadu,Manager,977406,2022-06-08
+1011,Akhil Kumar,M,1989-09-16,Mumbai,Maharashtra,Teacher,1134759,2023-04-26
+1012,Nithya Kumar,F,1991-04-19,Pune,Maharashtra,Banker,779433,2022-10-26
+1013,Sanjay Kumar,M,2000-07-16,Bengaluru,Karnataka,Business Analyst,481053,2023-07-16
+1014,Keerthi Kumar,M,1985-10-27,Bengaluru,Karnataka,Teacher,944133,2023-09-03
+1015,Harish Kumar,M,2004-04-05,Mumbai,Maharashtra,Accountant,1398368,2023-03-05
+1016,Lakshmi Kumar,F,1996-06-02,Hyderabad,Telangana,Teacher,588842,2024-05-21
+1017,Surya Kumar,M,1991-09-01,Coimbatore,Tamil Nadu,Manager,389387,2022-08-15
+1018,Naveen Kumar,M,1997-03-11,Madurai,Tamil Nadu,Business Analyst,1271670,2023-10-13
+1019,Pooja Kumar,M,1992-11-25,Chennai,Tamil Nadu,Teacher,1065133,2024-02-04
+1020,Ashwin Kumar,M,1994-12-22,Hyderabad,Telangana,Data Analyst,1267586,2024-03-09
+1021,Arjun Raj,F,1999-06-28,Kochi,Kerala,Sales Executive,1334817,2022-06-13
+1022,Priya Raj,M,1997-09-10,Chennai,Tamil Nadu,Teacher,202583,2023-01-27
+1023,Rahul Raj,M,1990-06-06,Kochi,Kerala,Doctor,824924,2024-05-27
+1024,Sneha Raj,M,1985-01-23,Kochi,Kerala,Manager,343480,2022-03-17
+1025,Karthik Raj,M,1989-12-26,Salem,Tamil Nadu,Business Analyst,523475,2023-07-01
+1026,Meera Raj,M,1998-04-04,Salem,Tamil Nadu,Sales Executive,450470,2023-01-26
+1027,Vignesh Raj,F,1995-09-09,Coimbatore,Tamil Nadu,Teacher,1173480,2023-11-27
+1028,Divya Raj,F,1985-03-17,Mumbai,Maharashtra,Software Engineer,516154,2022-06-06
+1029,Ananya Raj,M,2002-03-08,Bengaluru,Karnataka,Software Engineer,301266,2023-01-13
+1030,Rohit Raj,M,2004-09-03,Kochi,Kerala,Doctor,685142,2024-06-01
+1031,Akhil Raj,F,2004-04-11,Delhi,Delhi,Doctor,203736,2023-09-04
+1032,Nithya Raj,F,1998-10-23,Mumbai,Maharashtra,Data Analyst,821093,2023-11-29
+1033,Sanjay Raj,F,1986-02-27,Mumbai,Maharashtra,Software Engineer,958370,2022-06-12
+1034,Keerthi Raj,F,1989-07-11,Chennai,Tamil Nadu,Business Analyst,690835,2022-10-21
+1035,Harish Raj,M,2002-03-06,Hyderabad,Telangana,Student,435319,2024-01-04
+1036,Lakshmi Raj,M,1986-09-14,Mumbai,Maharashtra,Student,504029,2022-02-09
+1037,Surya Raj,F,1999-10-05,Madurai,Tamil Nadu,Software Engineer,1055235,2022-06-16
+1038,Naveen Raj,M,1993-01-05,Delhi,Delhi,Doctor,225086,2022-10-27
+1039,Pooja Raj,F,1995-10-03,Chennai,Tamil Nadu,Student,921116,2022-03-31
+1040,Ashwin Raj,F,1995-02-06,Chennai,Tamil Nadu,Student,1218712,2023-11-09
+1041,Arjun Sharma,F,1989-02-28,Hyderabad,Telangana,Software Engineer,1011681,2022-02-15
+1042,Priya Sharma,M,1996-01-13,Mumbai,Maharashtra,Data Analyst,207977,2022-04-24
+1043,Rahul Sharma,F,1996-11-01,Delhi,Delhi,Teacher,1117135,2023-03-25
+1044,Sneha Sharma,M,2000-08-05,Delhi,Delhi,Doctor,637155,2022-01-28
+1045,Karthik Sharma,M,1986-04-06,Bengaluru,Karnataka,Accountant,539128,2022-05-30
+1046,Meera Sharma,M,1990-07-27,Kochi,Kerala,Banker,862489,2022-04-24
+1047,Vignesh Sharma,M,1999-05-24,Coimbatore,Tamil Nadu,Manager,1435824,2023-05-16
+1048,Divya Sharma,F,1988-11-02,Bengaluru,Karnataka,Teacher,500120,2022-04-30
+1049,Ananya Sharma,F,1986-01-20,Salem,Tamil Nadu,Manager,217759,2023-09-17
+1050,Rohit Sharma,F,1997-06-27,Delhi,Delhi,Teacher,1408382,2023-05-16
+1051,Akhil Sharma,M,1990-10-25,Hyderabad,Telangana,Business Analyst,592010,2023-01-10
+1052,Nithya Sharma,F,1999-01-11,Coimbatore,Tamil Nadu,Teacher,221556,2023-08-13
+1053,Sanjay Sharma,F,1990-06-10,Madurai,Tamil Nadu,Banker,578649,2023-04-05
+1054,Keerthi Sharma,F,1995-08-28,Kochi,Kerala,Banker,834768,2022-04-20
+1055,Harish Sharma,F,1997-11-11,Pune,Maharashtra,Accountant,1031681,2023-07-29
+1056,Lakshmi Sharma,F,1998-02-05,Hyderabad,Telangana,Software Engineer,912060,2023-02-20
+1057,Surya Sharma,M,1987-06-09,Pune,Maharashtra,Software Engineer,1167021,2023-10-27
+1058,Naveen Sharma,F,1995-06-20,Kochi,Kerala,Software Engineer,720531,2022-05-08
+1059,Pooja Sharma,F,1990-03-13,Kochi,Kerala,Banker,379736,2022-06-21
+1060,Ashwin Sharma,F,2001-01-08,Mumbai,Maharashtra,Banker,516154,2022-05-12
+1061,Arjun Reddy,F,1987-05-16,Delhi,Delhi,Teacher,866534,2024-03-29
+1062,Priya Reddy,F,1986-08-11,Delhi,Delhi,Business Analyst,1131632,2023-07-27
+1063,Rahul Reddy,F,1991-04-17,Kochi,Kerala,Student,1401969,2024-03-16
+1064,Sneha Reddy,M,2002-12-09,Delhi,Delhi,Data Analyst,722462,2023-01-26
+1065,Karthik Reddy,F,2003-04-25,Chennai,Tamil Nadu,Teacher,237559,2022-04-28
+1066,Meera Reddy,F,1994-09-17,Pune,Maharashtra,Doctor,1211824,2023-01-21
+1067,Vignesh Reddy,M,1986-02-18,Mumbai,Maharashtra,Software Engineer,777136,2024-03-12
+1068,Divya Reddy,M,1986-01-19,Pune,Maharashtra,Teacher,681834,2022-04-13
+1069,Ananya Reddy,M,1989-02-22,Hyderabad,Telangana,Banker,252859,2022-12-25
+1070,Rohit Reddy,F,1988-09-15,Delhi,Delhi,Teacher,1348174,2023-06-12
+1071,Akhil Reddy,F,1991-07-12,Bengaluru,Karnataka,Data Analyst,340421,2023-08-23
+1072,Nithya Reddy,M,1996-01-24,Delhi,Delhi,Banker,1306445,2022-08-05
+1073,Sanjay Reddy,F,2002-10-23,Delhi,Delhi,Business Analyst,1467235,2022-05-07
+1074,Keerthi Reddy,F,1991-12-07,Salem,Tamil Nadu,Manager,939584,2024-05-25
+1075,Harish Reddy,M,1995-02-10,Mumbai,Maharashtra,Data Analyst,612621,2024-01-12
+1076,Lakshmi Reddy,F,2004-11-21,Coimbatore,Tamil Nadu,Sales Executive,882088,2022-11-29
+1077,Surya Reddy,F,1994-08-15,Kochi,Kerala,Software Engineer,408435,2022-01-17
+1078,Naveen Reddy,M,1989-10-13,Delhi,Delhi,Data Analyst,970330,2023-12-15
+1079,Pooja Reddy,F,1997-01-28,Pune,Maharashtra,Manager,1354408,2022-02-19
+1080,Ashwin Reddy,M,1989-08-10,Delhi,Delhi,Software Engineer,338939,2023-02-21
+1081,Arjun Nair,F,2003-11-14,Mumbai,Maharashtra,Business Analyst,385419,2022-01-16
+1082,Priya Nair,F,1992-07-16,Madurai,Tamil Nadu,Software Engineer,1398043,2022-08-22
+1083,Rahul Nair,F,1991-03-09,Salem,Tamil Nadu,Software Engineer,245708,2024-05-18
+1084,Sneha Nair,M,1998-03-16,Bengaluru,Karnataka,Manager,1088874,2023-04-23
+1085,Karthik Nair,M,1998-04-27,Chennai,Tamil Nadu,Data Analyst,545102,2022-10-03
+1086,Meera Nair,M,1994-08-16,Kochi,Kerala,Manager,933521,2022-11-17
+1087,Vignesh Nair,F,1991-05-16,Madurai,Tamil Nadu,Teacher,208177,2022-03-23
+1088,Divya Nair,F,1994-11-16,Bengaluru,Karnataka,Student,1218860,2024-06-19
+1089,Ananya Nair,M,1999-09-11,Hyderabad,Telangana,Student,444160,2022-05-09
+1090,Rohit Nair,M,2002-08-28,Hyderabad,Telangana,Data Analyst,763014,2023-02-18
+1091,Akhil Nair,F,2004-10-11,Salem,Tamil Nadu,Student,449968,2023-03-08
+1092,Nithya Nair,F,2004-06-17,Kochi,Kerala,Manager,1215333,2022-03-14
+1093,Sanjay Nair,F,1993-03-21,Mumbai,Maharashtra,Student,1289322,2023-03-27
+1094,Keerthi Nair,M,2003-08-22,Kochi,Kerala,Data Analyst,673647,2022-05-06
+1095,Harish Nair,M,1999-12-18,Pune,Maharashtra,Accountant,844413,2022-10-01
+1096,Lakshmi Nair,M,2000-10-21,Chennai,Tamil Nadu,Accountant,559196,2022-09-04
+1097,Surya Nair,M,1994-11-24,Delhi,Delhi,Doctor,752692,2024-04-15
+1098,Naveen Nair,F,1999-03-19,Pune,Maharashtra,Sales Executive,1468176,2023-11-28
+1099,Pooja Nair,F,1986-03-11,Mumbai,Maharashtra,Teacher,815558,2022-10-08
+1100,Ashwin Nair,F,1999-07-18,Chennai,Tamil Nadu,Manager,1064535,2022-05-11

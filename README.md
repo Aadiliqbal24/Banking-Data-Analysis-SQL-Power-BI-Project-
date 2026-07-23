@@ -90,14 +90,6 @@ monthly transaction trend; Credit vs Debit split; payment mode breakdown;
 customers by state.
 
 
-📁 [Download the .pbix file]("C:\Users\Aadil\Downloads\BANKINGDB.pbix") to explore
-the dashboard interactively in Power BI Desktop.
-
-📄 [Dashboard Business Questions]("C:\Users\Aadil\Downloads\bankingdb powerbi\Dashboard Business Questions.md") — every
-visual mapped to the business question it answers, with the DAX measure
-behind it.
-
-
 ## Tech Stack
 - **Database:** Snowflake
 - **Visualization:** Power BI

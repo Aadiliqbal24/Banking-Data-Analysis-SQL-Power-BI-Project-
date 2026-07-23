@@ -82,8 +82,6 @@ Dim_Customer ──< Dim_Account ──< Fact_Transaction >── Dim_Branch
 
 ## Power BI Dashboard
 
-![Executive Overview]("C:\Users\Aadil\Downloads\bankingdb powerbi\Screenshot 2026-07-23 114630.png")
-
 **Page 1 — Executive Overview:** Total transaction value, customer count,
 active account %, average transaction amount; transaction value by branch;
 monthly transaction trend; Credit vs Debit split; payment mode breakdown;
